@@ -1,7 +1,7 @@
 # Digital Health Workflow and Human Factors Project
 
 ## Overview
-This repository contains an analysis of healthcare workflow and human factors, showcasing my ability to evaluate and improve patient care processes in complex healthcare environments. This work was completed as part of the **Workflow Human Factors in Digital Health** course at Algonquin College and provides insight into my skills in identifying systemic issues and developing actionable solutions to improve healthcare safety and efficiency.
+This repository contains an analysis of healthcare workflow and human factors, showcasing my ability to evaluate and improve patient care processes in complex healthcare environments. This work was completed as part of the **Workflow Human Factors** course and provides insight into my skills in identifying systemic issues and developing actionable solutions to improve healthcare safety and efficiency.
 
 ## Case Study: Herbert Strasser Incident Analysis
 
